@@ -24,7 +24,7 @@ In reality, using a dynamic homepage with a filtered table with different altern
 
 We can make the dynamic webpage more user-friendly, thus here are some suggestions for developing the dynamic webpage:
 
-First- Mobile optimization: With an ever-increasing number of people accessing the internet via mobile devices, it is now a must for a webpage to be mobile-optimized and responsive, as well as all of the content we publish. There are two major factors to consider. On mobile devices, non-mobile-optimized content will load slowly, reducing our chances of conversion. The second is about participation. Having mobile-optimized content necessitates offering touch-friendly experiences. Clicking will not need users to zoom in.
+First- With an ever-increasing number of people accessing the internet via mobile devices, it is now a must for a webpage to be mobile-optimized and responsive, as well as all of the content we publish. There are two major factors to consider. On mobile devices, non-mobile-optimized content will load slowly, reducing our chances of conversion. The second is about participation. Having mobile-optimized content necessitates offering touch-friendly experiences.
 
 Second- The data table has seven columns and virtually covers the entire dynamic site. The following items can be added to the table to make it more efficient:
 
