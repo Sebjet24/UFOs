@@ -1,87 +1,49 @@
 # UFOs
 
 ## Project Overview
-In this analysis, we begin our JavaScript journey by looking into its technical aspects and how it applies to the field of data analytics and visualization. 
-JavaScript is typically known as a front end developement languge. This means that it adds extra functionality and customizations to enhance the user experience. 
-Our focus is on a dynamic webpage which accept user inputs and adjust accordingly. 
-
-We build a dynamic webpage by inserting a JavaSript into an HTML page using CSS and Bootstrap and exploring some Devtools to test our code as we go.
-We start by building a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
-
-We use basic HTML, Bootstrap and CSS to build and style the entire page. 
-The project is done as follows: 
-   - Filter UFO sightings on multiple criteria
-   - A written report on the UFO analysis 
+Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, I’ll add table filters for the city, state, country, and shape.
 
 ## Results
-We provide a dynamic webpage by allowing users to filter UFO sightings on multiple criterias at the same time. The table filters included for date, city, sate, country and shape. Bundled into one tidy package, every sighting would be available for Dana (and her readers) to view. Although the created table is well organized, it is huge 
-with hundreds of rows which is entirely too much for one person to reasonably look through and study. Therefore, using the filter feature, this possibility is provided
-for group or individual search and enables the user to see, for example, all data related to the first of May in the US country as below:
+We create a dynamic webpage by allowing visitors to simultaneously filter UFO reports based on different criteria. Date, city, state, nation, and shape were among the table filters. Every sighting would be gathered into one neat bundle and made available to Dana (and her readers). Although the table is well-organized, it is enormous, with hundreds of rows, making it impossible for one person to go through and learn. As a result, the filter option is available for group or individual searches, allowing the user to examine, for example, all data linked to May 1st in the United States, as seen below:
+
+<img width="532" alt="1-May" src="https://user-images.githubusercontent.com/91230277/150694390-bc989003-a88a-4144-9fc8-241502c2c696.PNG">
+
+Furthermore, the table may be filtered collectively on all criteria, with the result shown in the table based on the supplied inputs as shown below.
 
 
-
-
-
-
-
-
-
-<img src="https://github.com/halmasieh/UFOs/blob/main/Images/1-May.PNG" width="600" height="400"  />
-
-
-
-
-
-
-Furthurmore, filtering on the table can be done collectively on all the criterias and the result is shown in the table according to the specified inputs as below.
-
-
-
-<img src="https://github.com/halmasieh/UFOs/blob/main/Images/all_filters.PNG" width="600" height="400"  />
-
-
-
-
+<img width="692" alt="all_filters" src="https://user-images.githubusercontent.com/91230277/150694405-2628f2f3-3a5f-4df5-b85f-a4243cedc3dd.PNG">
 
 ## Summary
-Most of the websites we use these days are often dynamic websites. These dynamic websites have databases through which the content of a webpage is generated on the server dynamically and then sent to the user’s browser. Advantage of this is that each of the users get customized contents specific to them that are different from what would be delivered to other users. Contrary to this, a static website is usually made up of static content (mostly using only HTML & CSS) that are already stored as complete files on the server. Thus, each of the users who request a particular webpage from this server will always receive the same content. 
+The majority of the websites we use these days are dynamic. These dynamic websites employ databases to dynamically build webpage content on the server, which is then transmitted to the user's browser. The benefit is that each user receives personalised material that is unique to them and differs from what is offered to other users. A static website, on the other hand, is often built entirely of static material (mainly utilizing only HTML & CSS) that is already saved on the server as full files. As a result, every user that requests a specific webpage from this server will receive the identical content. 
 
-In addition, the cost of hosting a static website is in pennies compared to a dynamic website as it just needs a simple web enabled file server.
-If you are just looking for simple blog type of website to operate at a cheap cost, you can definitely opt for a static website. On the other hand, if you are looking to create a website having thousands of web pages or contents that are to be customized specific to each user, then dynamic website is the way to go. Therefore the cost of creating dynamic webpages is far more than the cost for static website.
+Furthermore, compared to a dynamic website, the cost of hosting a static website is peanuts because it only requires a simple web enabled file server.
+You may absolutely go with a static website if you only want a simple blog kind of website to manage at a low cost. Dynamic websites, on the other hand, are the way to go if you want to construct a website with thousands of web pages or contents that can be changed for each user. As a result, the cost of developing dynamic webpages is far more than the cost of developing a static website.
 
-One of the of disadvantages of the created dynamic webpage is as follows:
+One of the downsides of the dynamic webpage that was produced is as follows:
 
-In fact, creating a dynamic webpage with a filtered table that has separate options for each entry has caused the webpage to become crowded and cluttered. Instead, we can create a dropdown menu that gives us all the options by clicking once. 
+In reality, using a dynamic homepage with a filtered table with different alternatives for each entry has resulted in a congested and cluttered page. Instead, we may design a dropdown menu that allows us to choose all of the alternatives with a single click. 
 
-We can make the dynamic webpage more user-friendly, therefore the recommendations to develope the dynamic webpage would be as follows:
+We can make the dynamic webpage more user-friendly, thus here are some suggestions for developing the dynamic webpage:
 
-1- Mobile optimization: With a continually increasing number of people accessing the internet on mobile, it is a requirement of a webpage  and all the content we produce should be mobile-optimized and responsive. There are two main things that come into play. A content that’s not mobile-optimized will load slowly on mobile devices, decreasing our chances for conversion. The second is about engagement. Having content that’s optimized for mobile means presenting experiences that are touch-ready. Users won’t need to zoom in to click.
+1- Mobile optimization: With an ever-increasing number of people accessing the internet via mobile devices, it is now a must for a webpage to be mobile-optimized and responsive, as well as all of the content we publish. There are two major factors to consider. On mobile devices, non-mobile-optimized content will load slowly, reducing our chances of conversion. The second is about participation. Having mobile-optimized content necessitates offering touch-friendly experiences. Clicking will not need users to zoom in.
 
-2- The table of data contatins 7 columns that almost fills most of the dynamic webpage. To make the table more efficient, we can add the followings:
- 
-   - A dropdown menu toolbar in the top right corner of the page like:
+2- The data table has seven columns and virtually covers the entire dynamic site. The following items can be added to the table to make it more efficient:
 
+- A toolbar with a dropdown menu in the upper right corner of the page, such as:
 
-![here](https://github.com/halmasieh/UFOs/blob/main/Images/toolbar.PNG)
+<img width="335" alt="toolbar" src="https://user-images.githubusercontent.com/91230277/150694414-19bf311a-db50-49cb-b8df-521e21aabb9c.PNG">
 
+   - Create more attractions, such as an account menu that contains an email address and a name, such as: 
 
-   - Create other attractions like acount menu that includes email and name like: 
-
-
-<img src="https://github.com/halmasieh/UFOs/blob/main/Images/Account.PNG" width="300" height="200"  />
-
+<img width="256" alt="Account" src="https://user-images.githubusercontent.com/91230277/150694424-26d2a1ba-8410-4e8e-9318-b92744fbdfba.PNG">
 
    - Add the link to connect to Facebook, Linkdedln, Cloud and so on. 
 
+<img width="101" alt="facebook" src="https://user-images.githubusercontent.com/91230277/150694430-d5e98811-c8f9-4c78-87f7-2cd50d594c6c.PNG">
 
-![here](https://github.com/halmasieh/UFOs/blob/main/Images/facebook.PNG)
-
-
-   - Add advertisements to attract more users.
-   - Add small arrow beside the date to sort the date.
-   - Add the contact link in the left corner of the page for those who wants to contact us and get more information.
-   - Export filtered data as a resource for those who want to use this set of data later.
-   - Change date to a period of time for example from 1/1/2010 -1/5/2010 which makes more facilities to the users.
-   - Shorten the text inside the paragraph and add a "show more" link instead for those looking for more information.
-
-   The web app is available by [this link](https://halmasieh.github.io/UFOs/).
+   - Increase the number of users by including adverts.
+   - To sort the date, add a little arrow beside it.
+   - In the left corner of the website, include a contact link for individuals who wish to contact us and acquire more information.
+   - Save filtered data as a resource for anyone who want to work with it later.
+   - Change the date to a period of time, such as 1/1/2010 to 1//5/2010, which gives customers additional options.
+   - Shorten the content within the paragraph and replace it with a "show more" link for those who want to learn more.
