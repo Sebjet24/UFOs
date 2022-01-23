@@ -32,13 +32,4 @@ Second- The data table has seven columns and virtually covers the entire dynamic
 
 <img width="335" alt="toolbar" src="https://user-images.githubusercontent.com/91230277/150694414-19bf311a-db50-49cb-b8df-521e21aabb9c.PNG">
 
-   - Create more attractions, such as an account menu that contains an email address and a name, such as: 
-
-<img width="256" alt="Account" src="https://user-images.githubusercontent.com/91230277/150694424-26d2a1ba-8410-4e8e-9318-b92744fbdfba.PNG">
-
-   - Increase the number of users by including adverts.
-   - To sort the date, add a little arrow beside it.
-   - In the left corner of the website, include a contact link for individuals who wish to contact us and acquire more information.
-   - Save filtered data as a resource for anyone who want to work with it later.
-   - Change the date to a period of time, such as 1/1/2010 to 1//5/2010, which gives customers additional options.
-   - Shorten the content within the paragraph and replace it with a "show more" link for those who want to learn more.
+- In the left corner of the website, include a contact link for individuals who wish to contact us and acquire more information.
