@@ -13,11 +13,6 @@ The project is done as follows:
    - Filter UFO sightings on multiple criteria
    - A written report on the UFO analysis 
 
-
-## Resources
-Software: [Visual Studio Code](https://code.visualstudio.com/), [JavaScript ES6](https://www.w3schools.com/Js/js_es6.asp)
-
-
 ## Results
 We provide a dynamic webpage by allowing users to filter UFO sightings on multiple criterias at the same time. The table filters included for date, city, sate, country and shape. Bundled into one tidy package, every sighting would be available for Dana (and her readers) to view. Although the created table is well organized, it is huge 
 with hundreds of rows which is entirely too much for one person to reasonably look through and study. Therefore, using the filter feature, this possibility is provided
