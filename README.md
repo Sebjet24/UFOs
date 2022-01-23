@@ -37,10 +37,6 @@ Second- The data table has seven columns and virtually covers the entire dynamic
 
 <img width="256" alt="Account" src="https://user-images.githubusercontent.com/91230277/150694424-26d2a1ba-8410-4e8e-9318-b92744fbdfba.PNG">
 
-   - Add the link to connect to Facebook, Linkdedln, Cloud and so on. 
-
-<img width="101" alt="facebook" src="https://user-images.githubusercontent.com/91230277/150694430-d5e98811-c8f9-4c78-87f7-2cd50d594c6c.PNG">
-
    - Increase the number of users by including adverts.
    - To sort the date, add a little arrow beside it.
    - In the left corner of the website, include a contact link for individuals who wish to contact us and acquire more information.
