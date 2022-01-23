@@ -47,3 +47,5 @@ Second- The data table has seven columns and virtually covers the entire dynamic
    - Save filtered data as a resource for anyone who want to work with it later.
    - Change the date to a period of time, such as 1/1/2010 to 1//5/2010, which gives customers additional options.
    - Shorten the content within the paragraph and replace it with a "show more" link for those who want to learn more.
+
+The web app is available by [this link](file:///C:/Users/Seb/Documents/CODING_CLASS/Assignment%2011/UFOs-main/index.html).
